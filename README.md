@@ -4,7 +4,8 @@
 
 ## 🎯 Propósito
 
-El objetivo principal de este portafolio es reunir toda mi información profesional en un solo lugar. Así, cualquiera que esté interesado, ya sea un futuro empleador, colaborador o compañero curioso, podrá conocer mi experiencia en proyectos de software, las tecnologías que domino y las habilidades que he desarrollado a lo largo del tiempo. 💻🚀
+El objetivo principal de este portafolio es reunir toda mi información profesional en un solo lugar. Así, cualquiera que esté interesado, ya sea un futuro empleador, colaborador o compañero curioso, podrá conocer mi e
+xperiencia en proyectos de software, las tecnologías que domino y las habilidades que he desarrollado a lo largo del tiempo. 💻🚀
 
 🌐 **¡Visita mi portafolio desplegado [aquí](https://portfolio-rony-banol.vercel.app/)!** 
 
