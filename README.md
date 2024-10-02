@@ -7,7 +7,7 @@
 El objetivo principal de este portafolio es reunir toda mi información profesional en un solo lugar. Así, cualquiera que esté interesado, ya sea un futuro empleador, colaborador o compañero curioso, podrá conocer mi e
 xperiencia en proyectos de software, las tecnologías que domino y las habilidades que he desarrollado a lo largo del tiempo. 💻🚀
 
-🌐 **¡Visita mi portafolio desplegado [aquí](https://portfolio-rony-banol.vercel.app/)!** 
+🌐 **¡Visita mi portafolio desplegado [aquí](https://portafolio-ingenier-a-web.vercel.app/)!** 
 
 ## 🚀 Características
 
@@ -36,19 +36,7 @@ xperiencia en proyectos de software, las tecnologías que domino y las habilidad
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-
-### 📥 Instalación
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Rony-San/Portafolio-Ingenier-a-Web
    ```
 2. Instala las dependencias:
    
